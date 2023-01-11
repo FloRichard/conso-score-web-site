@@ -1,9 +1,9 @@
 ---
-title: 'Our Difference'
+title: 'On débranche quoi?'
 weight: 2
 background: ''
-button: 'About Us'
+button: 'À propos'
 buttonLink: 'about'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+Ce projet à été créé dans le cadre d'une semaine intensive en association avec l’École nationale supérieure d’ingénieur·e·s de Caen, Le Dôme et l’université de Caen Normandie.
