@@ -1,9 +1,9 @@
 ---
-title: 'Constat'
+title: 'Une pression financière'
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
+background: ''
 align: right
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian. Aeterno quaestio constituto sea an, no eum intellegat assueverit.
+Les plus grands consommateurs d'énergie parmis les producteurs et distributeurs se veront mettre sous pression financière après la mise en place de la taxe du conso-score. Cette action va signicativement augmenter le prix de vente du produit final, rendant moins accessible les denrées énergivores et/ou importés. Cela  impliquera des changements de comportements à la fois pour les producteurs qui devront revoir les méthodes de production mais aussi pour les consommateurs qui devront revoir leur manière de consommer.

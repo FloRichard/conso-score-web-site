@@ -11,7 +11,7 @@ heroBackground: 'services/service2.jpg'
 
 Cette application permet aux consommateurs de visualiser la fiche  descriptive d'un produit (nom, conso-score, taxe et bilan carbone  détaillé) en scannant son code-bar.
 
-## Ne verba patulosque numen vix libet
+## Informer le consommateur
 
 Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
 Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
@@ -29,7 +29,7 @@ dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
 Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
 esse iam feres mortis Plurima.
 
-## Postquam tamen
+## Technique
 
 Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
 et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et

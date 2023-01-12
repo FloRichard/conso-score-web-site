@@ -1,9 +1,9 @@
 ---
-title: 'Problématique soulevée'
+title: "La taxe permet le financement d'actions en faveur de la sobriété énergétique"
 weight: 2
 date: 2018-12-06T09:29:16+10:00
 background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
 align: left
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur et, mea ea duis erat. Elit melius cu ius. Per ex novum tantas putant, ei his nullam aliquam apeirian.
+Les fonds générés par cette taxe aideront à redynamiser certaines industries et à récompenser les productions les plus respectueuses de l'environnement. En effet, cette taxe sera sous forme de bonus et de malus, c'est-à-dire que pour un produit ayant un conso-score inférieur au seuil de taxation, l'agriculteur obtiendra des aides et des subventions. Cela lui permettra d'améliorer encore le rendement et le bilan carbone de sa production.

@@ -1,6 +1,6 @@
 ---
 title: 'On débranche quoi?'
-weight: 2
+weight: 6
 background: ''
 button: 'À propos'
 buttonLink: 'about'

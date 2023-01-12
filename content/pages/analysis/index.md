@@ -1,9 +1,9 @@
 ---
-title: 'Analyse'
+title: 'Bienfaits'
 date: 2018-12-06T09:29:16+10:00
 layout: 'analysis'
-heroHeading: 'Analyse'
-heroSubHeading: "Quel sujet on aborde à travers notre projet? Quel est notre diagnostic? Quelle problématique on en a tiré?"
+heroHeading: 'Bienfaits'
+heroSubHeading: "Avec Conso-Score nous allons réguler les produits en fonction de leur coût énergétique, prenez connaissance de ses bienfaits."
 heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 ---
 

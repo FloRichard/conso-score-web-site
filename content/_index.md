@@ -1,8 +1,8 @@
 ---
 title: 'Home'
 date: 2018-02-12T15:37:57+07:00
-heroHeading: "l'État français et la problématique de la crise énergétique"
-heroSubHeading: "Dans les années à venir, il est possible que la production nationale d’énergie devienne insuffisante. L’alimentation est un secteur qui, en France, représente une part importante de l’énergie dépensée chaque année (22% des dépenses en énergie du pays), il semble donc important d’agir."
-heroBackground: 'images/conso.jpg'
+heroHeading: "L'État français et la problématique de la crise énergétique"
+heroSubHeading: "Les scénarios montrent que dans les années à venir, la production nationale d’énergie deviendra insuffisante. 1/4 de l'énergie dépensée chaque année en France est consommé par le secteur alimentaire (22% des dépenses en énergie). Ce chiffre représente une part importante de l’énergie dépensée, il est donc important d’agir."
+heroBackground: 'images/produit2.jpg'
 ---
 

@@ -13,7 +13,7 @@ theme = "hugo-hero-theme"
   google_analytics_id=""
 
   [params.logo]
-    mobile = "images/logo-mobile.svg"
+    mobile = "images/logo-mobile.png"
     mobile_height = "36px"
     mobile_width = "36px"
     desktop = "images/logo.png"
@@ -33,24 +33,19 @@ theme = "hugo-hero-theme"
     meta_twitter_creator = "@zerostaticio"
 
 [[menu.main]]
-    name = "Notre Solution"
-    url = "/solution/"
-    weight = 1
-
-[[menu.main]]
-    name = "Analyse"
+    name = "Bienfaits"
     url = "/analysis/"
-    weight = 2
+    weight = 1
 
 [[menu.main]]
 	name = "Services"
 	url = "/services/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "À propos"
     url = "/about/"
-    weight = 4
+    weight = 3
 
 [permalinks]
   post = "/:year/:month/:day/:slug/"
