@@ -2,7 +2,7 @@
 title: 'Des taxes mieux pensées'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
-background: 'https://www.fcba.fr/wp-content/uploads/2020/06/home-slider-05.jpg'
+background: 'https://img.freepik.com/free-vector/natural-green-hand-painted-watercolor-texture-background_1017-39357.jpg?w=2000'
 align: right
 ---
 
