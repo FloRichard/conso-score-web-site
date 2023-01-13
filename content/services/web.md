@@ -9,17 +9,23 @@ heroSubHeading: 'Améliorons la tracabilité du produit.'
 heroBackground: 'services/service1.jpg'
 ---
 
-Site web mis à disposition des vendeurs et des producteurs afin de calculer le conso-score d'un produit et d'ainsi connaître la taxe qui lui sera appliqué.
+L'application web-score est la plateforme de mise en relation entre les producteurs et les vendeurs.
+Elle propose les services essentiels à la mise en place du conso-score, à savoir : un service d'authentification
+pour les producteurs et les vendeurs, un service d'ajout de produit vendu pour le producteur ainsi que le plus important :
+le service permettant aux vendeurs de consulter sa liste de producteurs partenaires ainsi que les produits de chacun d'entre
+eux afin de calculer de facon précise le conso-score de chaque produit ainsi que la taxe associée de ces derniers.
+Ces calculs prennent en compte le transport ainsi que la production afin de bien rendre compte de l'impact environnemental des produits.
 
-Cyanee nec pedicis positi. Esse et diem forte quoque et ieiunia
-vixque dixit negari _ullis stamina_: trahit. Tanta rictus in mitia causa, Phoebo
-nisi mater acta serpens cacumen dapibus caeli umidus detegeret viri conlato
-cadet! [Ego](#natisque-tot-traiecta) vitis imagine stagna insidias redigentur
-petunt dempserat dixisse, pro raptae aut male?
+Le projet comporte:
+- un site "vitrine" présentant notre projet et ses limites
+- un site "conso-Web" mettant en relation les producteurs et vendeurs afin de déclarer les produits et calculer leurs taxes
+- une application mobile "conso-scan" qui permet de scanner les produits afin de connaitre leur score en tant que consommateur
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
+
+
+techno :
+
+react, typescript, nodejs, bootstrap, flask, python, progresql, dbbeaver, docker
 
 ## Geniti facinus praeruptam atris ab manus in
 

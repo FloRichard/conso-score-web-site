@@ -2,7 +2,7 @@
 title: "La taxe permet le financement d'actions en faveur de la sobriété énergétique"
 weight: 2
 date: 2018-12-06T09:29:16+10:00
-background: 'https://source.unsplash.com/_v-EHHKKW3w/1600x700'
+background: 'https://img.freepik.com/free-photo/concrete-background-cement-texture-with-blank-space_53876-108434.jpg?w=2000'
 align: left
 ---
 
