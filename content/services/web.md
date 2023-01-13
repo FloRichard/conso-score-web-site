@@ -18,8 +18,8 @@ Ces calculs prennent en compte le transport ainsi que la production afin de bien
 
 Le projet comporte:
 - un site "vitrine" présentant notre projet et ses limites
-- un site "conso-Web" mettant en relation les producteurs et vendeurs afin de déclarer les produits et calculer leurs taxes
-- une application mobile "conso-scan" qui permet de scanner les produits afin de connaitre leur score en tant que consommateur
+-- un site "conso-Web" mettant en relation les producteurs et vendeurs afin de déclarer les produits et calculer leurs taxes
+- \- une application mobile "conso-scan" qui permet de scanner les produits afin de connaitre leur score en tant que consommateur
 
 
 
