@@ -6,4 +6,4 @@ button: ''
 buttonLink: ''
 ---
 
-Le conso-score est un score représentant la consommation énergétique d’un produit de sa conception à la mise en rayon jusqu’à son recyclage. Ce nouveau critère permettra aux consommateurs de choisir des produits moins consommateurs  d’énergie. Par conséquent, il y aura une taxation des produits proportionnellement à leur conso-score et donc à leur consommation d'énergie.
+Le conso-score est un score représentant la consommation énergétique d’un produit de sa conception à la mise en rayon en passant par le transport. Ce nouveau critère permettra aux consommateurs de choisir des produits moins énergivores. Par conséquent, il y aura une taxation des produits proportionnelle à leur conso-score et donc à leur consommation d'énergie.

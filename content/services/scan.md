@@ -9,7 +9,7 @@ heroSubHeading: 'Vous voulez connaître la consommation énergétique de votre p
 heroBackground: 'services/service2.jpg'
 ---
 
-Cette application permet aux consommateurs de visualiser la fiche  descriptive d'un produit (nom, conso-score, taxe et bilan carbone  détaillé) en scannant son code-bar.
+Cette application permet aux consommateurs de visualiser la fiche descriptive d'un produit (nom, conso-score, taxe et bilan carbone détaillé) en scannant son code-barre.
 
 ## Informer le consommateur
 
