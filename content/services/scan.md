@@ -27,4 +27,4 @@ L'application communique avec le backoffice sur le chemin /datas/product/{codeba
 
 ## Le Github
 
-Tout notre code est disponible en open source sur le répertoires suivants: [Conso Scan](https://github.com/FloRichard/conso-score-mobile-app)
+Tout notre code est disponible en open source sur le répertoire suivant: [Conso Scan](https://github.com/FloRichard/conso-score-mobile-app)
