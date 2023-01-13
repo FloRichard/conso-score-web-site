@@ -9,7 +9,7 @@ heroSubHeading: 'Vous voulez connaître la consommation énergétique de votre p
 heroBackground: 'services/service2.jpg'
 ---
 
-Cette application permet aux consommateurs de visualiser la fiche  descriptive d'un produit (nom, conso-score, taxe et bilan carbone  détaillé) en scannant son code-barre.
+Cette application permet aux consommateurs de visualiser la fiche descriptive d'un produit (nom, conso-score, taxe et bilan carbone détaillé) en scannant son code-barre.
 
 ## Informer le consommateur
 
@@ -24,3 +24,7 @@ L'application est développée en Java Android.
 Elle utilise la librairie zxing pour le scanneur de code barre et retrofit2 pour la communication avec le back office.
 
 L'application communique avec le backoffice sur le chemin /datas/product/{codebar}/
+
+## Le Github
+
+Tout notre code est disponible en open source sur le répertoires suivants: [Conso Scan](https://github.com/FloRichard/conso-score-mobile-app)
